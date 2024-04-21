@@ -15,7 +15,13 @@
 </ul>
 <h2 id="motivation-and-objectives">Motivation and objectives</h2>
 <ul>
-<li></li>
+<li>the immediate goal is to reduce the noise level of the MTR station (University)</li>
+<li>we also wish to
+<ul>
+<li>understand the extent to which the EPD is monitoring noise pollution in MTR stations</li>
+<li>assess whether there is an effective mechanism in place for MTR to be held accountable for noise pollution</li>
+</ul>
+</li>
 </ul>
 <h2 id="communicating-with-the-government">Communicating with the government</h2>
 <h3 id="email-logs">Email logs</h3>
