@@ -13,6 +13,7 @@
 <li>such noise may pose threats to the health of passengers of staff</li>
 <li>the Environmental Protection Department is responsible for monitoring noise pollution and protect public health</li>
 <li>the MTR as an employer is responsible for protecting its staff against <a href="https://odcb.org.hk/files/pamphlet/Leaflet-hearing_conservation_02-24-%28accessible_EN%29_20240228095752181_en.pdf">occupational deafness</a></li>
+<li>testing</li>
 </ul>
 <h2 id="motivation-and-objectives">Motivation and objectives</h2>
 <ul>
