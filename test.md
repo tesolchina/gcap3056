@@ -9,10 +9,10 @@ Let me brainstorm a bit about how the GitHub and GitBook can be used to better p
 
 - sync the files - this is important (publish files 
 - use of Markdown (also important) 
-- 
+- add labels in Markdown? #testing 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNzU4Mzg1LDE3MTk0MzY5NjVdfQ==
+eyJoaXN0b3J5IjpbLTU0NTE2MjcwNywxNzE5NDM2OTY1XX0=
 -->
