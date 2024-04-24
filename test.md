@@ -1,11 +1,15 @@
-# testing 
-## testing 2
+# Background research for a project
+## Background and motivation
 
-this is where I can edit the file in StackEdit 
+what is the problem? 
 
-can I change the name? 
+Why is it important? For whom is it important? 
 
-Let me brainstorm a bit about how the GitHub and GitBook can be used to better present the course materials and support collaboration 
+What documents can we find from the newspaper or media?
+
+What documents can we locate from the government and the Legco?
+
+
 
 - sync the files - this is important (publish files 
 - use of Markdown (also important) 
