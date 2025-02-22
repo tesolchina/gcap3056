@@ -1,0 +1,69 @@
+- How can educators integrate AI's transparent reasoning into their teaching practices to enhance critical thinking?
+
+- What are the potential long-term impacts of lower-cost AI models on the equity of educational access?
+
+- How might the open-source movement in AI affect the development of educational technologies in the future?
+
+After a brief intro to DeepSeek 
+here is an updated outline for the article 
+
+- Introducton and summary of the argument 
+
+- Reasoning about DeepSeek's Reasoning 
+Point 1: enable us to better understand how AI reaches its conclusion (this addresses the concern that AI is non-explainable; 
+its inner working mechanism is mysterious) it also addresses the critique of AI as just statistical prediction machine or an advanced version of autocomplete
+point 2: with the transparency of the reasoning it is also possible for users to validate the AI responses (we can examine the reasoning process and consider alternative approaches) - here we need an example 
+
+- Pedagogical implications of the reasoning mode of DeepSeek 
+point 1: the worry that AI will be abused by students to cheat- this could be addressed as DeepSeek and other models that offer reasoning mode would allow students to learn from AI how to solve a problem- not just to reach an answer 
+point 2: this has wide pedagogical implications for teachers as we need to learn from DeepSeek and teach students by showing to them our reasoning process and encourage them to think aloud 
+
+- The low training cost of DeepSeek and its implications for Higher Education 
+first refer to the impact on the capital market; investors began to question the narrative about AI investment that requites intensive computing resources 
+Point 1: this is good news for education sectors as lower costs would mean more equitable access; The USD 200 montly fee for DeepResearch of OpenAI would be less essential as more affordable alternatives will soon emerge 
+Point 2: with more affordable large language models it is easier to build local and contextualised applications for specific educational contexts - here argue that talking to LLM via web browsers is not an efficient and sustanable approach; we should build local applications and communicate with LLM via API (application programming interface) 
+here refer to OpenAI and Google decisions of blocking access to their models from scholars in China including Hong Kong 
+DeepSeek's open source approach to AI contrasted sharply and may help faciliate the development of an open ecosystem 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================
+
+# IMPORTANT: in addition to drafting an essay: also include an outline at the beginning. 
+Describe how you reason about the task and how you drafted the essay. 
+
+
+I need to write an opinion piece for THE Campus as a university lecturer. You are a brilliant academic writer with deep insights into how Generative AI is impacting Higher Education. 
+The original instructions from my colleague: 
+
+I’m reaching out to see if you would be interested in contributing another article for Times Higher Education's Campus platform, focusing on Deepseek and its potential impact on higher education. THE recently contacted us directly, likely due to the success of our three well-received pieces on AI.
+They are particularly interested in exploring whether Deepseek improves or complicates the situation for universities, its impact on research, and the benefits or drawbacks from an educator’s perspective.
+I believe this topic aligns well with your expertise and could result in another excellent article.
+No pressure at all, but if you are keen to write on this, we can provide the same editing support as last time.
+
+
+A couple of points I wish to make 
+
+deepseek’s abilities to reasoning and its sharing of this process are particularly impressive and carries significant implications for educators. - it allows users to better understand how the chatbot reaches the conclusion; to offer feedback on the reasoning process and even provides guidance on reasoning
+meanwhile it also inspires educators to revisit the think aloud protocols as a pedagogical tool for teaching students; machine learning experts have learned a lot from human brains- time for human education community to learn more from machine learning
+
+
+Such reasoning capacity is not unique to DeepSeek - other models such as Perplexity, Kimi also offer similar functionality
+this highlights the importance of competition and not allowing one large language model to dominate; the fact that deepseek is open source certainly benefits further evolution of more LLMs that are both affordable and transparent
+
+when I draft this article I’ve been talking to multiple LLMs including DeepSeek, Perplexity, Kimi and GPT-o1 via poe While it is exciting to review how different models respond to my ideas I feel a gap between the reality and the possibility that we can bring all models together to talk to one another- this raises the question of whether web browsers are the ultimate setting for talking to an LLM; for me it should not be- more advanced systems should more deeply integrate the LLM into our own workflow- through API programming- we should be able to send same prompts to multiple LLMs and synthesize ideas ; even asking them to give feedback to one another
+
+this exciting scenario becomes more likely thanks to DeepSeek team’s decision to go open source and its ability to develop the model at a much lower cost

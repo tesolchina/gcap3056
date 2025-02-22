@@ -1,0 +1,84 @@
+The genre is an opinion piece written by university scholars for the audience with interest in Higher Education. Below is an example piece
+
+How to integrate AI into strategy and business education
+Incorporate AI into your teaching or ignore it and hope it fades from view? Let’s balance these two attitudes by raising our expectations of students
+
+Digital strategy
+Artificial intelligence
+Instructional design
+Feature article
+Europe
+Guillaume Carton
+,
+Julia Parigot
+EMLyon Business School
+,
+Institut Supérieur de Gestion
+17 Feb 2025
+copy
+0
+bookmark plus
+Top of page
+Main text
+cop
+0
+bookmark plus
+comment
+An illustration of a robot hand supporting a human brain
+image credit: iStock/Moor Studio.
+You may also like
+
+The potential of artificial intelligence in…
+5 minute read
+
+bookmark plus
+Two people looking through assessment feedback
+Essential GenAI skills for marketing students
+6 minute read
+
+bookmark plus
+Students working on a project together in class
+An insider’s guide to how students use GenAI tools
+4 minute read
+
+bookmark plus
+A young woman uses a laptop happily
+Popular resources
+
+Since the dawn of generative artificial intelligence, scholars have been divided. Some educators are enthusiastic about AI, have already incorporated it into their teaching and have usually allowed their students to use AI in their work.  
+
+Several of them have published articles in higher education-related journals, in which they explain to their colleagues how to improve classes by integrating the tool and teaching their students the new art of “AI prompting”.
+
+Four objectives to guide artificial intelligence’s impact on higher education
+Open dialogue about AI in HE is the way forward
+ChatGPT and the rise of AI writers: how should higher education respond?
+In contrast, other academics are reluctant to use AI and hope that this phenomenon will dissipate quickly. They believe that AI impedes students from developing the core competencies taught in higher education, which are essential for professional success. They tend to prohibit the use of AI, monitor for potential cheating, adapt questions to exclude those that AI can answer or revert to paper-and-pencil exams.
+
+From a personal point of view, we are still hesitant to integrate AI into our daily professional lives, but we recognise its impact on higher education. For our students to be prepared for the future workplace, using AI in our teaching practices is going to be necessary, not optional, for embedding the core competencies of our discipline.
+
+AI is not a problem – lack of critical thinking is
+In our field of management and strategy, AI has become a standard tool. Management consultants use Microsoft Copilot for meeting minutes, financial audits are partially automated using AI and ChatGPT is consulted over interns or associates. As a result, the question is no longer whether AI should be used, but how it can be used to further develop students’ core competencies and enhance their critical thinking abilities.
+
+As management and strategy scholars, our objective is to educate students to think critically and become responsible managers. Traditionally, students develop these competencies by writing a master’s dissertation, analysing a company’s strategy and offering recommendations, and writing reflective essays on a company’s strategic move.
+
+Instead of avoiding the use of AI to complete these assignments, we encourage professors to integrate it into the assignments. We show that that it frames students as true professionals-in-training and raises our expectations regarding the quality of students’ work. 
+
+Educating students to think critically with AI
+For example, integrating AI into the master’s dissertation process means viewing students as true researchers-in-training, whose objective is to provide meaningful contributions to academic literature, practice and society. Rather than merely skimming drafts and offering limited follow-up meetings with students, professors should engage even more than before with their students’ work by reviewing drafts, discussing with students how their research questions and literature reviews are framed, going through students’ data collection and analysis, and helping them find how their work can offer an original and relevant contributions, on the same way we would do with our PhD students. 
+
+By raising expectations, students will soon discover the limitations of AI as a tool. Similarly, as Wikipedia and blogs have demonstrated in the past, AI is only able to provide limited assistance when it comes to serious research and cannot provide an original and unique perspective on a specific topic. 
+
+Students’ evaluations were previously based on elements that were not directly related to their ability to think critically, such as structure, style and writing or proper citation conventions. These are now easily done by AI. Instead, the assessment of a master’s dissertation is now focused entirely on the demonstration of original and critical thinking, through the analysis and criticism of academic literature, for example. This typically involves the completion of a defence, to test a student’s capacity to argue and defend their own intellectual position and not only to provide a mere synthesis of previous works.
+
+Another example is the integration of AI for analysing the strategy of a given company and offering strategic recommendations. Similarly, it encourages professors to raise their standards by considering students as true consultants-in-training. It concentrates on the core of the strategic analysis by collecting valuable data and making recommendations that would be of value to CEOs or boards of directors. 
+
+While AI will help students frame or categorise information on the competitive environment or the company, it typically has little impact on the analysis of a strategy for which it cannot access the relevant data. Yes, students can work faster using AI (and as consultants-in-training, they are expected to deliver fast!), but AI can’t replace students in producing relevant recommendations. 
+
+Finally, integrating AI for writing reflective essays on a company’s strategic move encourages professors to concentrate on students’ reflective abilities. How does this strategic situation relate to the students on a personal and professional level? What advice would they give to a stakeholder involved in this strategy move? 
+
+Students may rely on AI input now, but in the past they would have relied on their friends or family members for similar feedback. Furthermore, the use of AI does not prevent students from constructing their own arguments and finding ways to express themselves outside AI jargon.
+
+It would be unwise to view AI as a threat to our role as faculty members and educators. Instead, we believe that by raising our standards and envisioning our students as true professionals-in-training, the technology can be harnessed to focus on the skills students will need for the future. By doing so, we enhance our role as educators and improve the learning experience for our students by concentrating on the acquisition of students’ core competencies.
+
+
+Guillaume Carton is associate professor of strategy at EMLyon business school and Julia Parigot is associate professor of strategy at Institut Supérieur de Gestion.
